@@ -5,11 +5,11 @@ Welcome to my GitHub profile. Some info about me:
 ![profile-views](https://komarev.com/ghpvc/?username=sunhailin-Leo)
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunhailin-Leo&layout=compact&theme=radical">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sunhailin-Leo&layout=compact&theme=radical">
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sunhailin-Leo&show_icons=true&theme=radical">
+    <img src="https://github-stats-extended.vercel.app/api?username=sunhailin-Leo&show_icons=true&theme=radical">
 </p>
 
 <p align="center">
@@ -17,5 +17,5 @@ Welcome to my GitHub profile. Some info about me:
 </p>
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=sunhailin-Leo&column=7&theme=radical"/>
+    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=sunhailin-Leo&theme=radical&column=7"/>
 </p>
